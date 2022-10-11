@@ -1,0 +1,17 @@
+.palindrome {
+  align-items: center;
+  background: var(--main-color);
+  color: var(--secondary-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.palindrome section {
+  width: 90%;
+}
+
+.palindrome section h1 {
+  text-align: center;
+}
